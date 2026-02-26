@@ -187,7 +187,7 @@ const TeacherSchedule: FC<{ props: Props; } & HtmlHTMLAttributes<HTMLDivElement>
         </div>}
 
         <div className="medcolosma-footer">
-          Х М Т П К
+          К о л л е д ж{'  '}О м Г М У
         </div>
       </div>
     </PullToRefresh>

@@ -51,7 +51,7 @@ const Information: FC<{ props: Props; } & HtmlHTMLAttributes<HTMLDivElement>> = 
       />
       <Separator/>
       <div className="medcolosma-footer">
-        Х М Т П К
+        К о л л е д ж{'  '}О м Г М У
       </div>
     </div>
   </Panel>;
